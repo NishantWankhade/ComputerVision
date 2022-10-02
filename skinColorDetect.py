@@ -2,7 +2,7 @@ from PIL import Image
 import numpy as np
 
 
-img = Image.open(r"C:\Users\ngw33\OneDrive\Desktop\bahubali.jpg")
+img = Image.open(r"bahubali.jpg")
 # img = Image.open(r"C:\Users\ngw33\OneDrive\Desktop\ProfilePicturePhoto.jpg")
 # img = Image.open(r"C:\Users\ngw33\OneDrive\Desktop\Screenshot (178).png")
 r = 0

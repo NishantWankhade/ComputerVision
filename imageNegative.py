@@ -1,6 +1,6 @@
 from PIL import Image
 
-img = Image.open(r"C:\Users\ngw33\OneDrive\Desktop\ProfilePicturePhoto.jpg")
+img = Image.open(r"ProfilePicturePhoto.jpg")
 
 for h in range(img.height):
     for w in range(img.width):
