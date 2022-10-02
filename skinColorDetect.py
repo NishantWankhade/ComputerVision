@@ -29,4 +29,5 @@ for x in range(img.width):
             d = (r1,g1,b1)
             img.putpixel((x,y),d)
 
+img = img.save("output_skin_detect.png")
 img.show()
